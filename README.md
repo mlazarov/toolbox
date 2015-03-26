@@ -76,6 +76,15 @@
 * [Kafka](http://kafka.apache.org/)
 * [IronMQ](http://www.iron.io/mq)
 
+### Load Balancing
+* [HAProxy](http://haproxy.1wt.eu/)
+* [nginx](http://nginx.org/)
+
+### Monitoring, Alerting, and Trending
+### Logging
+### Process Supervisors
+### Security
+
 ### Miscellaneous Tools
 * [mussh](http://mussh.sourceforge.net/)
 * [mosh](https://mosh.mit.edu/)
