@@ -46,7 +46,18 @@
 * [Git](http://caiustheory.com/automatically-deploying-website-from-remote-git-repository/)
 
 ### Web Servers
-* [nginx]()
+* [nginx](http://nginx.org/)
 * [Apache](http://httpd.apache.org/)
 * [Lighttpd](http://www.lighttpd.net/)
 * [ISS](http://www.iis.net/overview)
+
+### Database Servers
+* [MariaDB](https://mariadb.org/)
+* [MySQL](http://www.mysql.com/)
+* [Percona](http://www.percona.com/software/percona-server/downloads)
+* [PostgreSQL](http://www.postgresql.org/)
+* [MS SQL](http://www.microsoft.com/en-us/sqlserver/default.aspx)
+* [MongoDB](http://www.mongodb.org/)
+* [Cassandra](http://cassandra.apache.org/)
+* [Redis](http://redis.io/)
+* [Riak](http://basho.com/riak/)
