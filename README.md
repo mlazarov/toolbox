@@ -27,3 +27,26 @@
 * [Cobbler](http://www.cobblerd.org/)
 * [Fai](http://fai-project.org/)
 
+### Configuration Management
+* [Puppet](http://puppetlabs.com/)
+* [Chef](http://www.opscode.com/chef/)
+* [Ansible](http://www.ansibleworks.com/)
+* [SaltStack](http://saltstack.com/community.html)
+* [CFEngine](http://cfengine.com/)
+* [Ubuntu Juju](https://juju.ubuntu.com/)
+
+### Test and Build Systems
+* [Jenkins](http://jenkins-ci.org/)
+* [Maven](http://maven.apache.org/)
+* [Ant](http://ant.apache.org/)
+* [Gradle](http://www.gradle.org/)
+
+### Application Deployment
+* [Capistrano](http://www.capistranorb.com/)
+* [Git](http://caiustheory.com/automatically-deploying-website-from-remote-git-repository/)
+
+### Web Servers
+* [nginx]()
+* [Apache](http://httpd.apache.org/)
+* [Lighttpd](http://www.lighttpd.net/)
+* [ISS](http://www.iis.net/overview)
