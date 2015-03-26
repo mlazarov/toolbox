@@ -82,6 +82,11 @@
 
 ### Monitoring, Alerting, and Trending
 ### Logging
+* [Logstash](http://logstash.net/)
+* [Graylog](https://www.graylog.org/)
+* [Loggly](https://www.loggly.com/)
+* [rsyslog](http://www.rsyslog.com/)
+
 ### Process Supervisors
 ### Security
 
