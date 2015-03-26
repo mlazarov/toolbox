@@ -61,3 +61,23 @@
 * [Cassandra](http://cassandra.apache.org/)
 * [Redis](http://redis.io/)
 * [Riak](http://basho.com/riak/)
+
+### Cache Servers
+* [Memcache](http://memcached.org/)
+* [MemcacheDB](http://memcachedb.org/)
+* [Varnish](https://www.varnish-cache.org/)
+* [Squid](http://www.squid-cache.org/)
+* [Redis](http://redis.io/)
+
+### Message Queue
+* [RabbitMQ](http://www.rabbitmq.com/)
+* [ActiveMQ](http://activemq.apache.org/)
+* [Gearman](http://gearman.org/)
+* [Kafka](http://kafka.apache.org/)
+* [IronMQ](http://www.iron.io/mq)
+
+### Miscellaneous Tools
+* [mussh](http://mussh.sourceforge.net/)
+* [mosh](https://mosh.mit.edu/)
+* [iperf](http://iperf.fr/)
+* [bonnie++](http://www.coker.com.au/bonnie++/)
