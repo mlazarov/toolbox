@@ -19,7 +19,10 @@
 * [Packer](https://www.packer.io/)
 
 ### Containerization Tools
+* [Kubernetes](https://kubernetes.io/)
 * [Docker](http://www.docker.io/)
+* [Docker Swarm](https://docs.docker.com/engine/swarm/)
+* [CoreOS](https://coreos.com/)
 * [LXC](http://lxc.sourceforge.net/)
 
 ### Linux OS Installation
@@ -28,20 +31,19 @@
 * [Fai](http://fai-project.org/)
 
 ### Configuration Management
+* [Ansible](http://www.ansibleworks.com/)
 * [Puppet](http://puppetlabs.com/)
 * [Chef](http://www.opscode.com/chef/)
-* [Ansible](http://www.ansibleworks.com/)
 * [SaltStack](http://saltstack.com/community.html)
 * [CFEngine](http://cfengine.com/)
 * [Ubuntu Juju](https://juju.ubuntu.com/)
 
-### Test and Build Systems
+### Test and Build Systems, Application Deployment
+* [Gitlab CI](https://about.gitlab.com/)
 * [Jenkins](http://jenkins-ci.org/)
 * [Maven](http://maven.apache.org/)
 * [Ant](http://ant.apache.org/)
 * [Gradle](http://www.gradle.org/)
-
-### Application Deployment
 * [Capistrano](http://www.capistranorb.com/)
 * [Git](http://caiustheory.com/automatically-deploying-website-from-remote-git-repository/)
 
@@ -56,7 +58,6 @@
 * [MySQL](http://www.mysql.com/)
 * [Percona](http://www.percona.com/software/percona-server/downloads)
 * [PostgreSQL](http://www.postgresql.org/)
-* [MS SQL](http://www.microsoft.com/en-us/sqlserver/default.aspx)
 * [MongoDB](http://www.mongodb.org/)
 * [Cassandra](http://cassandra.apache.org/)
 * [Redis](http://redis.io/)
@@ -80,7 +81,18 @@
 * [HAProxy](http://haproxy.1wt.eu/)
 * [nginx](http://nginx.org/)
 
+### Firewall
+* iptables
+* nftables
+* csf
+* fail2ban
+
 ### Monitoring, Alerting, and Trending
+* [StackDriver](https://www.stackdriver.com/)
+* [New Relic](https://newrelic.com/)
+* [Munin](http://munin-monitoring.org/)
+* [Zabbix](http://www.zabbix.com/)
+
 ### Logging
 * [Logstash](http://logstash.net/)
 * [Graylog](https://www.graylog.org/)
@@ -88,6 +100,9 @@
 * [rsyslog](http://www.rsyslog.com/)
 
 ### Process Supervisors
+* [Supervisord](http://supervisord.org/)
+* [Systemd](https://www.freedesktop.org/wiki/Software/systemd/)
+
 ### Security
 
 ### Miscellaneous Tools
@@ -95,3 +110,10 @@
 * [mosh](https://mosh.mit.edu/)
 * [iperf](http://iperf.fr/)
 * [bonnie++](http://www.coker.com.au/bonnie++/)
+
+### Cloud Platforms
+* [GCP](https://cloud.google.com/)
+* [AWS](https://aws.amazon.com/)
+* [OpenStack](https://www.openstack.org/)
+* [DigitalOcean]
+* [Linode]
